@@ -1,0 +1,31 @@
+
+    p{
+        font-family: Roboto;
+    }
+    .video-title{
+        font-size: 20px;
+        font-weight: bold;
+        text-align: left;
+        width: 350px;
+        line-height: 23px;
+        margin-bottom: 6px;
+    }
+    .video-stats{
+        margin-top: 0;
+    }
+    .video-content{
+        width: 300px;
+        color: rgb(89, 84, 84);
+    }
+    .ads{
+        background-color: rgb(224, 27, 27);
+        color: white;
+        text-align: center;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        margin-top: 130px;
+    }
+    .change:hover{
+        text-decoration: underline;
+        cursor: pointer;
+    }
